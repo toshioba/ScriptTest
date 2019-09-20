@@ -13,7 +13,7 @@ public class Test : MonoBehaviour {
 			
 				Debug.Log (array [i]);
 			}
-		for (int j = 4; 0 <= array.Length; j--) {
+		for (int j = 4; -1 < j; j--) {
 
 		    	Debug.Log (array [j]);
 	
